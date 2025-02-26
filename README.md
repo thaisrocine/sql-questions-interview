@@ -1,6 +1,6 @@
 # SQL Questions Interview
 
-Este repositório contém uma coleção de questões de SQL retiradas de plataformas populares como Beecrowd, LeetCode e HackerRank. O objetivo é ajudar na preparação para entrevistas e aprimorar habilidades em consultas SQL.
+Este repositório contém uma coleção de resolução questões de SQL retiradas de plataformas populares como Beecrowd, LeetCode e HackerRank. 
 
 ## ✨ O que você encontrará aqui:
 
@@ -18,10 +18,4 @@ git clone https://github.com/seu-usuario/sql-questions-interview.git
 
 Escolha um diretório correspondente à plataforma desejada.
 
-Leia o enunciado da questão e tente resolvê-la antes de conferir a solução.
-
-Teste as soluções em um banco de dados SQL.
-
-## 📈 Contribuição
-
-Se desejar adicionar novas questões ou soluções otimizadas, fique à vontade para abrir um PR!
+Codifique sua solução.
